@@ -1,0 +1,29 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Archivos de configuración de entornos virtuales
+venv/
+env/
+*.venv
+
+# Configuraciones del editor (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de node.js (si usas Node.js para alguna funcionalidad)
+node_modules/
+package-lock.json
+
+# Archivos generados por Tkinter y procesos
+*.tmp
+temp_script.py
+temp_script.js
