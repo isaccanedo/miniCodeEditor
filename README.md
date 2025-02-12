@@ -1,4 +1,4 @@
-# 📝 Mini Code Editor
+### 📝 Mini Code Editor
 
 This is a **mini code editor** created with **Tkinter** that allows you to write and run code in **Python and JavaScript**.
 It includes features such as:
